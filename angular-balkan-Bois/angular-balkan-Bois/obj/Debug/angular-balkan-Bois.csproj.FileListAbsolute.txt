@@ -1,0 +1,168 @@
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\ApplicationInsights.config
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\csc.exe
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\System.Collections.Immutable.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\vbc.exe
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\VBCSCompiler.exe
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\VBCSCompiler.exe.config
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\angular-balkan-Bois.dll.config
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\angular-balkan-Bois.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\angular-balkan-Bois.pdb
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.Web.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.WindowsServer.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.ApplicationInsights.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.Web.xml
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.WindowsServer.xml
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.ApplicationInsights.xml
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\obj\Debug\angular-balkan-Bois.csprojResolveAssemblyReference.cache
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\obj\Debug\angular-balkan-Bois.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\obj\Debug\angular-balkan-Bois.pdb
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.Azure.KeyVault.Core.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.Data.Edm.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.Data.OData.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.Data.Services.Client.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.WindowsAzure.Storage.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Newtonsoft.Json.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\System.Spatial.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.Azure.KeyVault.Core.xml
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.Data.Edm.xml
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.Data.OData.xml
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.Data.Services.Client.xml
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.WindowsAzure.Storage.pdb
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.WindowsAzure.Storage.xml
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\Newtonsoft.Json.xml
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\System.Spatial.xml
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\de\Microsoft.Data.Services.Client.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\es\Microsoft.Data.Services.Client.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\fr\Microsoft.Data.Services.Client.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\it\Microsoft.Data.Services.Client.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\ja\Microsoft.Data.Services.Client.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\ko\Microsoft.Data.Services.Client.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\ru\Microsoft.Data.Services.Client.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\de\System.Spatial.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\es\System.Spatial.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\fr\System.Spatial.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\it\System.Spatial.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\ja\System.Spatial.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\ko\System.Spatial.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\ru\System.Spatial.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\markusvall\documents\visual studio 2015\Projects\angular-balkan-Bois\angular-balkan-Bois\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\obj\Debug\angular-balkan-Bois.csprojResolveAssemblyReference.cache
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\obj\Debug\angular-balkan-Bois.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\obj\Debug\angular-balkan-Bois.pdb
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\ApplicationInsights.config
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\csc.exe
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\vbc.exe
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\VBCSCompiler.exe
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\angular-balkan-Bois.dll.config
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\angular-balkan-Bois.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\angular-balkan-Bois.pdb
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.Web.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.Data.Edm.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.Data.OData.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.Data.Services.Client.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Newtonsoft.Json.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\System.Spatial.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.Web.xml
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.Data.Edm.xml
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.Data.OData.xml
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.Data.Services.Client.xml
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\Newtonsoft.Json.xml
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\System.Spatial.xml
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\de\System.Spatial.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\es\System.Spatial.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\fr\System.Spatial.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\it\System.Spatial.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\ja\System.Spatial.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\ko\System.Spatial.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\ru\System.Spatial.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\MarkusVall\Source\Repos\balkan-bois\angular-balkan-Bois\angular-balkan-Bois\bin\zh-Hant\System.Spatial.resources.dll
